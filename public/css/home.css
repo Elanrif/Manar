@@ -1,0 +1,39 @@
+
+
+.e_tete{ 
+    position : fixed ; 
+    top:0; 
+    width:100%;
+    z-index:2;
+    
+}
+
+.image{
+    height:730px;
+    
+}
+
+
+@media screen and (min-width:750px){ 
+
+    .cards{ 
+
+          margin-left:250px ; 
+          margin-right:250px ;
+          margin-top:50px ;
+    }
+
+    .max{
+    padding-left:100px ; 
+    padding-top:100px;
+}
+        
+        }
+
+
+        @media screen and (min-width:570px){ 
+
+        .text-center{ 
+     
+    }
+}
